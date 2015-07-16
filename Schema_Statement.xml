@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Statement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Stage>
+		<Owner_Name></Owner_Name>
+		<Statement_ID></Statement_ID>
+		<Text></Text>
+		<AudioFile></AudioFile>
+		<Response_ID></Response_ID>
+	</Stage>
+	<Stage>
+		<Owner_Name></Owner_Name>
+		<Statement_ID></Statement_ID>
+		<Text></Text>
+		<AudioFile></AudioFile>
+		<Response_ID></Response_ID>
+	</Stage>
+</Statement>

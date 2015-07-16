@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Statement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Stage>
+		<Owner_Name>Smith</Owner_Name>
+		<Statement_ID>1</Statement_ID>
+		<Text>Hi, I've lost my wallet, I don’t suppose you've seen it anywhere. </Text>
+		<AudioFile>audioone</AudioFile>
+		<Response_ID>0</Response_ID>
+	</Stage>
+	<Stage>
+		<Owner_Name>Smith</Owner_Name>
+		<Statement_ID>2</Statement_ID>
+		<Text>I'm sure I had it when I came into the shop.</Text>
+		<AudioFile>audiotwo</AudioFile>
+		<Response_ID>0</Response_ID>
+	</Stage>
+	<Stage>
+		<Owner_Name>Smith</Owner_Name>
+		<Statement_ID>3</Statement_ID>
+		<Text>It's a brown leather wallet. I really need it to pay for my shopping.</Text>
+		<AudioFile>audiothree</AudioFile>
+		<Response_ID>0</Response_ID>
+	</Stage>
+	<Stage>
+		<Owner_Name>Smith</Owner_Name>
+		<Statement_ID>4</Statement_ID>
+		<Text>Oh, you found it! Thank you so much, I don’t know what I would have done if you didn't.</Text>
+		<Response_ID>0</Response_ID>
+	</Stage>
+	<Stage>
+		<Owner_Name>Smith</Owner_Name>
+		<Statement_ID>5</Statement_ID>
+		<Text>You haven't? If you do see it, please come find me right away.</Text>
+		<Response_ID>0</Response_ID>
+	</Stage>
+	<Stage>
+		<Owner_Name>Smith</Owner_Name>
+		<Statement_ID>6</Statement_ID>
+		<Text>Well, if you find it, please come find me. [end]</Text>
+		<Response_ID>0</Response_ID>
+	</Stage>
+	<Stage>
+		<Owner_Name>Smith</Owner_Name>
+		<Statement_ID>7</Statement_ID>
+		<Text>Thank goodness, I'd be stuck without it. [end] </Text>
+		<Response_ID>0</Response_ID>
+	</Stage>
+	<Stage>
+		<Owner_Name>Smith</Owner_Name>
+		<Statement_ID>8</Statement_ID>
+		<Text>Its brown leather.</Text>
+	</Stage>
+	<Stage/>
+	<Stage/>
+	<Stage/>
+	<Stage/>
+</Statement>

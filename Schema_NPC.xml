@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NPC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Character>
+		<Level></Level>
+		<Name></Name>
+		<Portrait></Portrait>
+		<Image></Image>
+		<Statement_ID></Statement_ID>
+		<Position></Position>
+	</Character>
+	<Character>
+		<Level></Level>
+		<Name></Name>
+		<Portrait></Portrait>
+		<Image></Image>
+		<Statement_ID></Statement_ID>
+		<Position></Position>
+	</Character>
+</NPC>
+	
