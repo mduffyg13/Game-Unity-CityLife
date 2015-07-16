@@ -8,7 +8,7 @@ public class Camera_movement : MonoBehaviour {
 	void Start () {
 	player = GameObject.Find("Player");
 	}
-	
+	//ffff
 	// Update is called once per frame
 	void Update () {
 		Vector3 player_postion = new Vector3(player.transform.position.x, camera_distance, player.transform.position.z);
